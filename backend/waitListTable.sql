@@ -1,0 +1,7 @@
+CREATE TABLE waitlist (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(200) NOT NULL,
+    youtubelink VARCHAR(200) NOT NULL
+  );
+  
